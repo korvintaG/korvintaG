@@ -11,7 +11,7 @@ C 2001-го работаю только на удаленке. Не вижу с�
 
 ---
 
-### ⚙️; Используемый стек технологий:
+### ⚙️ Используемый стек технологий:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GnuBash&logoColor=white)
