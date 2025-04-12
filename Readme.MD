@@ -1,17 +1,17 @@
 Обо мне
 ---
-Я программист из России, г.Таганрог Ростовской области. 
-Базовое образование - высшее, техническое, по специальности "Программное обеспечение вычислительной техники и автоматизированных систем". Занимаюсь коммерческим программированием с 1-го семестра обучения в ВУЗе. 
+Базовое образование - высшее, техническое, по специальности "Программное обеспечение вычислительной техники и автоматизированных систем". В IT меня впечатлила мощь компьютерных технологий, которую можно использовать во благо людям. Занимаюсь коммерческим программированием с 1-го семестра обучения в ВУЗе. Сразу понравилось осваивать новые языки программирования. Начал с Pascal, потом C, ASM. С удовольствием освоил Microsoft Visual Basic для автоматизированной верстки красивых документов с графиками, графами и диаграммами. СУБД начинал с Clarion. Потом влюбился в Oracle SQL. Интерфейс с пользователем реализовывал на Delphi, C# и PHP.
+К сожалению, «проспал» взрывной рост WEB-технологий. А потом с удивлением осознал, что WEB-это целая вселенная со своей полноценной ОС. И что она становится доступной любому пользователю, когда он открывает свой браузер. Поэтому решил сменить свою специализацию с desktop на fullstack developer. Тем более что есть большой опыт в Linux и SQL. А также в проектировании WEB-систем.
+C 2001-го работаю только на удаленке. Не вижу смысла для программистов «ходить» на работу.
+
+
+Веду на habr.com общественно полезный блог про базы знаний: https://habr.com/ru/companies/lumanbox/articles/ 
+
+Мое свободное время – это SAP-board и любимая собака.
 
 ---
 
-### &#128222; Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/KorvinTag) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:s.korobok@gmail.com)
-
----
-
-### &#128736; Стек:
+### &#128736; Используемый стек технологий:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GnuBash&logoColor=white)
@@ -38,3 +38,9 @@
 ![C#](https://img.shields.io/badge/C%23-9A4E96?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
+---
+
+### &#128222; Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/KorvinTag) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:s.korobok@gmail.com)
