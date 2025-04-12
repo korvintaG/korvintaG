@@ -32,6 +32,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
 ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9A4E96?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
