@@ -31,4 +31,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=Delphi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
-![Git]https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=red
+![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git&logoColor=red)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
