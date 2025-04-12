@@ -35,3 +35,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9A4E96?style=for-the-badge&logo=dotnet&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
