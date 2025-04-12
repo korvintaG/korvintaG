@@ -44,6 +44,8 @@ C 2001-го работаю только на удаленке. Не вижу с�
 # 🚀 Портфолио: Мои проекты
 
 ## Публичная база знаний по методу Zettelkasten (FullStack)
+**Время работы над проектом**: 2024-настоящее время
+
 **Технологии**: HTML, CSS, TypeScript, React, Redux, Nest.js, PostgreSQL, Telegram API, Linux Ubuntu, Docker 
 
 **Описание**: Стартап организации публичной базы знаний по методу Zettelkasten. Дискуссии планируется организовывать по технологии, изложенной Мортимером Адлером. Мною реализован с нуля. Взаимодействие с Telegram сделала Светлана Зимина (https://github.com/szimina)
@@ -56,7 +58,7 @@ C 2001-го работаю только на удаленке. Не вижу с�
 - Премодерация всей поступаемой от пользоваталей информации
 
 **Ссылки**: 
-[Код](https://github.com/korvintaG/luman-box) | [Демо](https://sferatum.com)
+[Код](https://github.com/korvintaG/luman-box) | [Демо](https://sferatum.com) | [Обсуждение проекта на habr.com](https://habr.com/ru/companies/lumanbox/articles/893330/)
 
 
 ---
