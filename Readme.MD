@@ -36,3 +36,5 @@
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9A4E96?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
