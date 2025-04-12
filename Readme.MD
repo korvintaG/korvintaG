@@ -30,4 +30,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=Delphi&logoColor=white)
-![Phyton](https://img.shields.io/badge/Phyton-3776AB?style=for-the-badge&logo=Phyton&logoColor=white)
+![Phyton](https://img.shields.io/badge/Phyton-3776AB?style=for-the-badge&logo=Phyton&logoColor=black)
