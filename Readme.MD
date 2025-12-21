@@ -44,6 +44,7 @@ C 2001-го работаю только на удаленке. Не вижу с�
 
 ## Стартап-проект SFERATUM
 **Время работы над проектом**: 2023 г. — настоящее время
+**Моё участие**: fullstack-разработчик - спроектирования архитектуры для верстки React компонентов.
 
 **Технологии**: HTML, CSS, TypeScript, React, Redux, Nest.js, TypeORM, PostgreSQL, Telegram API, Linux, Docker compose, Traefik.
 
