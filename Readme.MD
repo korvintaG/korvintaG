@@ -99,7 +99,7 @@ C 2001-го работаю только на удаленке. Не вижу с�
 - Админка через защищенную админ-панель Python Django
 
 **Ссылки**: 
-[Код фронтенд](https://github.com/korvintaG/Altiora), [Код бэкенд](https://github.com/korvintaG/Altiora-Backend) | [Сайт](https://алтиора.рф) 
+[Код фронтенд](https://github.com/korvintaG/Altiora) | [Код бэкенд](https://github.com/korvintaG/Altiora-Backend) | [Сайт](https://алтиора.рф) 
 
 
 
