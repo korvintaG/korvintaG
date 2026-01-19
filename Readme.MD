@@ -98,7 +98,7 @@ https://habr.com/ru/companies/lumanbox/articles/
 
 **Моё участие**: fullstack-разработчик 
 
-**Технологии**: HTML, SCSS, React TypeScript, Next.js, Python Django, PostgreSQL.
+**Технологии**: HTML, SCSS, React TypeScript, Next.js, Radix UI, Python Django, PostgreSQL.
 
 **Описание**: Официальный сайт компании Алтиора
 
