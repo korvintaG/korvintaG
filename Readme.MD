@@ -54,7 +54,7 @@ https://habr.com/ru/companies/lumanbox/articles/
 
 **Моё участие**: fullstack-разработчик - с проектирования архитектуры до верстки React компонентов.
 
-**Технологии**: HTML, CSS, TypeScript, React, Redux, Nest.js, TypeORM, PostgreSQL, Telegram API, Linux, Docker compose, Traefik.
+**Технологии**: HTML, CSS, TypeScript, React, Redux, Cypress, Nest.js, TypeORM, PostgreSQL, Telegram API, Jest, Linux, Docker compose, Traefik.
 
 **Описание**: Стартап публичной базы знаний по методу Zettelkasten. Дискуссии планируется организовывать по технологии, изложенной Мортимером Адлером. Мною реализован с нуля. Взаимодействие с Telegram сделала Светлана Зимина (https://github.com/szimina)
 
