@@ -2,7 +2,7 @@
 ---
 Oracle SQL/PLSQL разработчик с сильными навыками fullstack-разработки. Более 20-ти лет в коммерческом программировании. Около 5 лет активной web-разработки. Специализируюсь на React, TypeScript, Nest.js и разработке SPA с нуля: от архитектуры и UI до интеграции API и деплоя.
 
-Имею опыт работы с продуктами в сложных предметных областях (финансы, автоматизация, IoT).
+Имею опыт работы с продуктами в сложных предметных областях (финансы, образование, автоматизация, IoT).
 Умею брать ответственность за результат, работать самостоятельно и доводить проекты до production.
 
 **Soft skills:**
@@ -54,7 +54,7 @@ https://habr.com/ru/companies/lumanbox/articles/
 
 **Моё участие**: fullstack-разработчик - с проектирования архитектуры до верстки React компонентов.
 
-**Технологии**: HTML, CSS, TypeScript, React, Redux, Cypress, Nest.js, TypeORM, PostgreSQL, Telegram API, Jest, Linux, Docker compose, Traefik.
+**Технологии**: HTML, CSS, TypeScript, React, Redux, Cypress, Nest.js, TypeORM, PostgreSQL, Telegram API, Jest, Swagger, Linux, Docker compose, Nginx, Traefik.
 
 **Описание**: Стартап публичной базы знаний по методу Zettelkasten. Дискуссии планируется организовывать по технологии, изложенной Мортимером Адлером. Мною реализован с нуля. Взаимодействие с Telegram сделала Светлана Зимина (https://github.com/szimina)
 
@@ -76,7 +76,7 @@ https://habr.com/ru/companies/lumanbox/articles/
 
 **Моё участие**: fullstack-разработчик - с проектирования архитектуры до верстки React компонентов.
 
-**Технологии**: HTML, CSS, TypeScript, React, Websocket, Socket.io, Redux, Nest.js, TypeORM, PostgreSQL, Telegram API, Linux, Docker compose, Traefik.
+**Технологии**: Vite, HTML, CSS, TypeScript, React, Websocket, Socket.io, Redux, Nest.js, TypeORM, PostgreSQL, Telegram API, Linux, Nginx, Docker compose, Traefik.
 
 **Описание**: Создания MVP сайта интернета вещей с нуля. Пока только в дизайне для смартфона.
 
@@ -98,7 +98,7 @@ https://habr.com/ru/companies/lumanbox/articles/
 
 **Моё участие**: fullstack-разработчик 
 
-**Технологии**: HTML, SCSS, React TypeScript, Next.js, Radix UI, Python Django, PostgreSQL.
+**Технологии**: HTML, SCSS, React TypeScript, Next.js, Radix UI, Zod, Python Django, PostgreSQL, Swagger.
 
 **Описание**: Официальный сайт компании Алтиора
 
@@ -140,7 +140,7 @@ https://habr.com/ru/companies/lumanbox/articles/
 
 **Мое участие**: Desktop-разработчик, Fullstack-разработчик
 
-**Технологии**: Linux Oracle, Oracle SQL, Oracle PL-SQL, Delphi, DOA, GridEh, SQLite, PHP
+**Технологии**: Linux Oracle, Oracle SQL, Oracle PL-SQL, Delphi, C#, DOA, GridEh, ffmpeg, SQLite, PHP, Nest.js, CSV, XML/JSON, Docker Compose
 
 **Описание**: desktop-система автоматизации сети ломбардов + сайт с личным кабинетом оплаты % через Интернет-эквайринг.
 
